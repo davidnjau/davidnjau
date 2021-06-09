@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidnjau
 - 👀 I’m an Android and Java Developer.
-- 🌱 I’m an Actuarist by Education background but interested in software and technology development.
+- 🌱 I’m an Actuarial science graduate by Education background but interested in software and technology development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
